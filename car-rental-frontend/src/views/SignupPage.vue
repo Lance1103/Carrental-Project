@@ -20,7 +20,7 @@
           <label for="firstName" class="sr-only">First Name</label>
           <input id="firstName" name="firstName" type="text" required
                  v-model="firstName"
-                 class="relative block w-full px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
+                 class="relative block w-[375px] px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
 
                  placeholder="First Name"
           />
@@ -29,7 +29,7 @@
           <label for="lastName" class="sr-only">Last Name</label>
           <input id="lastName" name="lastName" type="text" required
                  v-model="lastName"
-                 class="relative block w-full px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
+                 class="relative block w-[375px] px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
                  placeholder="Last Name"
           />
         </div>
@@ -37,7 +37,7 @@
           <label for="username" class="sr-only">Username</label>
           <input id="username" name="username" type="text" required
                  v-model="username"
-                 class="relative block w-full px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
+                 class="relative block w-[375px] px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
                  placeholder="Username"
           />
         </div>
@@ -45,7 +45,7 @@
           <label for="email" class="sr-only">Email address</label>
           <input id="email" name="email" type="email" autocomplete="email" required
                  v-model="email"
-                 class="relative block w-full px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
+                 class="relative block w-[375px] px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
                  placeholder="Email address"
           />
         </div>
@@ -53,7 +53,7 @@
           <label for="password" class="sr-only">Password</label>
           <input id="password" name="password" type="password" autocomplete="new-password" required
                  v-model="password"
-                 class="relative block w-full px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
+                 class="relative block w-[375px] px-3 py-2 border border-neutral-300 placeholder-neutral-500 text-neutral-900 rounded-md focus:outline-none focus:ring-amber-500 focus:border-amber-500 focus:z-10 sm:text-sm"
                  placeholder="Password"
           />
         </div>

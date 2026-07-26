@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e8b45f6-1c23-478d-b8ea-de82eaad98f1" name="Changes" comment="Final commits">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e3a50d8a-1042-4e4e-8b88-601ead0e288c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e3a50d8a-1042-4e4e-8b88-601ead0e288c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/public/2024 bmw x5 m competition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/public/About.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/public/Honda civic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/public/Toyota.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/src/views/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/car-rental-frontend/src/views/HomePage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-rental-frontend/src/views/LoginPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/car-rental-frontend/src/views/LoginPage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/car-rental-frontend/src/views/SignupPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/car-rental-frontend/src/views/SignupPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/domain/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/factory/CustomerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/factory/CustomerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/service/impl/BookingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/service/impl/BookingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/za/carrental/controller/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/za/carrental/controller/BookingController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +43,75 @@
     &quot;assignee&quot;: &quot;Lance1103&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/InamJim/CarrentalNew.git&quot;,
-    &quot;accountId&quot;: &quot;654a81f9-8e9b-4d36-9595-8a132b323f9d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Lance1103/Carrental-Project.git",
+    "accountId": "de4a3c96-9e97-4be5-9f28-14b08c62232e"
   }
-}</component>
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0004842095912612" />
+      <entry key="MS500" value="1.4313592293670625" />
+      <entry key="S2" value="2.8205617911890823" />
+      <entry key="S5" value="3.4537336595435386" />
+      <entry key="S10" value="3.7248190829076067" />
+      <entry key="S30" value="4.485844524535499" />
+      <entry key="S60" value="5.728602481018557" />
+      <entry key="M2" value="8.397129861647306" />
+      <entry key="M5" value="13.923789996716186" />
+      <entry key="M10" value="17.60369785866135" />
+      <entry key="M15" value="19.176704231937403" />
+      <entry key="M30" value="20.965155185651557" />
+      <entry key="H1" value="21.94967564315349" />
+      <entry key="H2" value="22.46633363247365" />
+      <entry key="H4" value="22.731004888600488" />
+      <entry key="D1" value="22.954864118541725" />
+      <entry key="W1" value="22.993544546939145" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.170342688453878E-217" />
+      <entry key="S2" value="9.50736282778849E-55" />
+      <entry key="S5" value="2.4616370920248727E-22" />
+      <entry key="S10" value="1.5689605132140443E-11" />
+      <entry key="S30" value="2.503440869042863E-4" />
+      <entry key="S60" value="0.01582226554271816" />
+      <entry key="M2" value="0.12578658729259706" />
+      <entry key="M5" value="0.4363688426519531" />
+      <entry key="M10" value="0.6605821997692286" />
+      <entry key="M15" value="0.7584924192607916" />
+      <entry key="M30" value="0.870914702632119" />
+      <entry key="H1" value="0.9332281085737397" />
+      <entry key="H2" value="0.9660373225573324" />
+      <entry key="H4" value="0.9828719766873671" />
+      <entry key="D1" value="0.997124740721098" />
+      <entry key="W1" value="0.9995887416217268" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.004613358553759253" />
+      <entry key="MS500" value="0.7604164884516911" />
+      <entry key="S2" value="2.575541602135399" />
+      <entry key="S5" value="3.3470433523347096" />
+      <entry key="S10" value="3.6697451873039095" />
+      <entry key="S30" value="4.464997266315666" />
+      <entry key="S60" value="5.730651391969843" />
+      <entry key="M2" value="8.51059365315547" />
+      <entry key="M5" value="14.349831144895903" />
+      <entry key="M10" value="18.25721899848678" />
+      <entry key="M15" value="19.929940361388955" />
+      <entry key="M30" value="21.833127448180115" />
+      <entry key="H1" value="22.881345584652024" />
+      <entry key="H2" value="23.431569001186137" />
+      <entry key="H4" value="23.713470023303177" />
+      <entry key="D1" value="23.95192022487692" />
+      <entry key="W1" value="23.993123463217255" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -60,64 +127,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.AdminLoginControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdminLoginFactoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdminLoginServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdminPortalControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdminPortalFactoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdminPortalServiceImplTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookingControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookingFactoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookingServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarFactoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarServiceImplTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarTypeControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarTypeFactoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CarTypeServiceImplTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerFactoryTest.createCustomer.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerFactoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PromotionControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lance/IdeaProjects/carrental 3/carrental/pom.xml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2025.1.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AdminLoginControllerTest.executor": "Run",
+    "JUnit.AdminLoginFactoryTest.executor": "Run",
+    "JUnit.AdminLoginServiceTest.executor": "Run",
+    "JUnit.AdminPortalControllerTest.executor": "Run",
+    "JUnit.AdminPortalFactoryTest.executor": "Run",
+    "JUnit.AdminPortalServiceImplTest.executor": "Run",
+    "JUnit.BookingControllerTest.executor": "Run",
+    "JUnit.BookingFactoryTest.executor": "Run",
+    "JUnit.BookingServiceTest.executor": "Run",
+    "JUnit.CarControllerTest.executor": "Run",
+    "JUnit.CarFactoryTest.executor": "Run",
+    "JUnit.CarServiceImplTest.executor": "Run",
+    "JUnit.CarTypeControllerTest.executor": "Run",
+    "JUnit.CarTypeFactoryTest.executor": "Run",
+    "JUnit.CarTypeServiceImplTest.executor": "Run",
+    "JUnit.CustomerControllerTest.executor": "Run",
+    "JUnit.CustomerFactoryTest.createCustomer.executor": "Run",
+    "JUnit.CustomerFactoryTest.executor": "Run",
+    "JUnit.CustomerServiceTest.executor": "Run",
+    "JUnit.PromotionControllerTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Main.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lance/IdeaProjects/carrental 3/carrental/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2026.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql_aurora&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora"
     ],
-    &quot;vue.recent.templates&quot;: [
-      &quot;Vue Composition API Component&quot;
+    "vue.recent.templates": [
+      "Vue Composition API Component"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lance\IdeaProjects\carrental 3\carrental\car-rental-frontend" />
+      <recent name="C:\Users\lance\IdeaProjects\carrental 3\carrental\car-rental-frontend\src\public" />
       <recent name="C:\Users\lance\IdeaProjects\carrental 3\carrental\car-rental-frontend\public" />
       <recent name="$PROJECT_DIR$/car-rental-frontend/src/components" />
       <recent name="$PROJECT_DIR$/car-rental-frontend/src/views" />
@@ -221,8 +297,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.28293.39" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.28293.39" />
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.258" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.258" />
       </set>
     </attachedChunks>
   </component>
@@ -252,7 +328,9 @@
       <workItem from="1760972171267" duration="762000" />
       <workItem from="1761046865024" duration="5000" />
       <workItem from="1761078787420" duration="717000" />
-      <workItem from="1761145927826" duration="4343000" />
+      <workItem from="1761145927826" duration="6162000" />
+      <workItem from="1761197728482" duration="4628000" />
+      <workItem from="1763367602243" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="Final Customer and Booking Front end commite">
       <option name="closed" value="true" />
@@ -382,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760912278223</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Final commits">
+      <option name="closed" value="true" />
+      <created>1761157977016</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1761157977017</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

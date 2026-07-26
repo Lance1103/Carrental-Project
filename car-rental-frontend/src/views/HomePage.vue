@@ -244,10 +244,7 @@ function arrayBufferToBase64(buffer) {
                     :alt="`${car.make} ${car.model}`"
                     class="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-700 ease-out"
                 />
-                <div class="absolute inset-0 bg-gradient-to-b from-black/10 via-black/0 to-black/50"></div>
-                <div class="absolute top-3 left-3 px-3 py-1 rounded-full text-xs font-semibold tracking-wide bg-green-300 backdrop-blur border border-amber-200 uppercase text-neutral-700">
-                  {{ car.status.toUpperCase() }}
-                </div>
+                
               </div>
 
               <div class="p-5 flex flex-col flex-1">

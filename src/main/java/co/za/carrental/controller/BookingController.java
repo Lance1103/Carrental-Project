@@ -56,7 +56,7 @@ public class BookingController {
 
         Booking booking = bookingOpt.get();
 
-        // Admins can view any booking, users can only view their own
+
         if (!"ADMIN".equals(customer.getRole()) &&
                 !booking.getCustomer().getEmail().equals(userEmail)) {
             return ResponseEntity.status(403).build(); // Forbidden
@@ -86,7 +86,7 @@ public class BookingController {
 
         Booking existing = existingOpt.get();
 
-        // Only admins or the booking owner can update
+
         if (!"ADMIN".equals(customer.getRole()) &&
                 !existing.getCustomer().getEmail().equals(userEmail)) {
             return ResponseEntity.status(403).build();
@@ -109,7 +109,7 @@ public class BookingController {
 
         Booking booking = bookingOpt.get();
 
-        // Only admins or the booking owner can delete
+
         if (!"ADMIN".equals(customer.getRole()) &&
                 !booking.getCustomer().getEmail().equals(userEmail)) {
             return ResponseEntity.status(403).build();
@@ -134,7 +134,7 @@ public class BookingController {
 
             Booking booking = bookingOpt.get();
 
-            // Only admins or the booking owner can cancel
+
             if (!"ADMIN".equals(customer.getRole()) &&
                     !booking.getCustomer().getEmail().equals(userEmail)) {
                 return ResponseEntity.status(403).body("You are not authorized to cancel this booking");
@@ -170,12 +170,12 @@ public class BookingController {
         Customer customer = customerService.findByEmail(userEmail)
                 .orElseThrow(() -> new RuntimeException("User not found"));
 
-        // Admins can view all bookings
+
         if ("ADMIN".equals(customer.getRole())) {
             return ResponseEntity.ok(bookingService.getAll());
         }
 
-        // Regular users only see their own bookings
+
         List<Booking> userBookings = bookingService.getAll().stream()
                 .filter(b -> b.getCustomer() != null &&
                         b.getCustomer().getEmail().equals(userEmail))
